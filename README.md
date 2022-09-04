@@ -1,0 +1,1 @@
+simple sticky notes app using python and tkinter
